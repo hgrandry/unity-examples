@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "com.hgrandry.build": "https://github.com/hgrandry/unity-build.git",
+    "com.hgrandry.helpers": "https://github.com/hgrandry/unity-helpers.git",
+    "com.hgrandry.injection": "https://github.com/hgrandry/unity-injection.git",
+    "com.hgrandry.observables": "https://github.com/hgrandry/unity-observables.git",
+    "com.hgrandry.tween": "https://github.com/hgrandry/unity-tween.git",
+    "com.unity.ide.rider": "1.1.4",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.ui": "1.0.0"
+  },
+  "lock": {
+    "com.hgrandry.build": {
+      "revision": "HEAD",
+      "hash": "8e4461514e08be7f8dd900ec33c347b6d7d0a5fc"
+    },
+    "com.hgrandry.helpers": {
+      "revision": "HEAD",
+      "hash": "556471f440a451a64ba17165e80503802149107d"
+    },
+    "com.hgrandry.injection": {
+      "revision": "HEAD",
+      "hash": "189dda399bd6d7193506d8f3fda2ecedb7605388"
+    },
+    "com.hgrandry.observables": {
+      "revision": "HEAD",
+      "hash": "a0c2e62cd673c13331a1dc66bf46003065055037"
+    },
+    "com.hgrandry.tween": {
+      "revision": "HEAD",
+      "hash": "829ac10a01ead619ebe97b6fc0b22443849a3e3e"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"appName": "unity-examples",
+	"projectDirFormat": "$appName",
+	"rootDir": "..",
+	"buildDir": "./Builds",
+	"unity": "C:/Program Files/Unity/$unityVersion/Editor/Unity.exe",
+	"variables": [
+		{
+			"name": "unityVersion",
+			"value": "2019.3.5f1"
+		}
+	],
+	"commands": []
+}
